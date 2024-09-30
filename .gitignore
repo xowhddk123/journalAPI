@@ -1,0 +1,4 @@
+config.py
+.env
+*.ipynb
+get_requirements.sh
